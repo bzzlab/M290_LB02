@@ -4,7 +4,7 @@
 1. Clonen Sie dieses Repository mit z.B. <code>git clone diese-url</code>.
 1. Erstellen Sie eine Verbindung zu Ihrem MySQL-Server.
 2. Importieren Sie die Datenbank <code>m290_testlauf-db.sql</code>.
-3. Analysieren Sie die Datenbank (Aufbau, Tabellen, Inhalt.)
+3. Analysieren Sie die Datenbank (z.B. Aufbau, Tabellen, Inhalt)
 4. Erarbeiten Sie eine bis zwei (einfache bis mittelschwere) SQL-Query zusammen mit Ihrem Partner.
 Verwenden Sie u.a. die Filterung (Where), die Sortierung (Order by) und Abfragen über mehrere Tabellen 
 (Inner Joins) usw.
